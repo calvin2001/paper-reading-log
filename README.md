@@ -1,6 +1,6 @@
-# Robot Learning Reading Log
+# Reading Log
 
-로봇 정책 학습(모방학습·VLA·3D visuomotor) 논문을 주 1편씩 읽고 기록합니다.
+논문을 읽고 기록합니다.
 2026년 9월 시작.
 
 | # | 날짜 | 논문 | 모드 | 갈래 | 한 줄 |
